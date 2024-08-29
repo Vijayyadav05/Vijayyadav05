@@ -1,7 +1,6 @@
-![logo](https://github.com/Vijayyadav05/Vijayyadav05/blob/main/Data-Science.jpg)
 <h1 align="center">Hi 👋, I'm Vijay Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
+![logo](https://github.com/Vijayyadav05/Vijayyadav05/blob/main/Data-Science.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyadav05" /> </p>
 
 - 🌱 I’m currently learning **Data Science Course From Imarticus Learning, Bengaluru.**
