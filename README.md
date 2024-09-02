@@ -1,4 +1,4 @@
-![logo](https://github.com/Vijayyadav05/Vijayyadav05/blob/main/Green%20Simple%20Manager%20LinkedIn%20Banner.png)
+![logo](https://github.com/Vijayyadav05/Vijayyadav05/blob/main/Tech%20Consultant%20business%20Banner.jpg)
 
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyadav05" /> </p>
