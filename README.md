@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayyadav05&label=Profile%20views&color=0e75b6&style=flat" alt="vijayyadav05" /> </p>
 
-- 🌱 I’m currently learning **Data Science Course From Imarticus Learning, Bengaluru.**
+- 🌱 I recently completed a **Post Graduation Certification in Data Science and Analytics** from Imarticus Learning Institute, Bengaluru.
 
 - 📝 I regularly write articles on [https://medium.com/@vijayyadav9833709315](https://medium.com/@vijayyadav9833709315)
 
-- 💬 Ask me about **SQL, Python, Statistics, Data visualization**
+- 💬 Ask me about **Excel, SQL, Python, Statistics, Data visualization, Machine Learning**
 
 - 📫 How to reach me **vijayyadav9833709315@gmail.com**
 
